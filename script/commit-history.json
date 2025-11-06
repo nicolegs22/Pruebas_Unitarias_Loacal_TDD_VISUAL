@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "1a08f552041f52b23430f4f5847893ccfe312607",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-11-06T19:00:04.000Z",
       "message": "Inicial",
-      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/HEAD"
+      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/1a08f552041f52b23430f4f5847893ccfe312607"
     },
     "stats": {
       "total": 10,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-11-06T19:11:30.000Z",
+      "message": "feat: calcula para una cadena vacia",
+      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/HEAD"
+    },
+    "stats": {
+      "total": 35,
+      "additions": 35,
+      "deletions": 0,
+      "date": "2025-11-06"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }

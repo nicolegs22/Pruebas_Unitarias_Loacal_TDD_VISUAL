@@ -8,9 +8,39 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1a08f552041f52b23430f4f5847893ccfe312607",
     "commitName": "Inicial",
     "commitTimestamp": 1762455606291,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1762456221533,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1762456258891,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1762456270697,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: calcula para una cadena vacia",
+    "commitTimestamp": 1762456291014,
+    "testId": 1
   }
 ]
