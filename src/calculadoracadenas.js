@@ -2,9 +2,10 @@ export default function sumarCadena(cadena) {
   if (cadena === "") {
     return 0;
   }
-  let numeros = cadena.split(",");
-  if (numeros.length > 1) {
-    return parseInt(numeros[0]) + parseInt(numeros[1]);
+  const numeros = cadena.split(",");
+  let resultado = 0;
+  for (const numero of numeros) {
+    resultado += Number.parseInt(numero);
   }
-  return parseInt(cadena);
+  return resultado;
 }

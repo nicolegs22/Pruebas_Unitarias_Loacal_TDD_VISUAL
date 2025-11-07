@@ -136,9 +136,55 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5c9b19cbeb93d5444c55856d98448aca24acc9bf",
     "commitName": "feat: suma una cadena de dos sumeros",
     "commitTimestamp": 1762518475593,
     "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1762518904161,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1762519029516,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1762519064691,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1762519088073,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1762519177689,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: suma cadena de varios numeros",
+    "commitTimestamp": 1762519202681,
+    "testId": 5
   }
 ]

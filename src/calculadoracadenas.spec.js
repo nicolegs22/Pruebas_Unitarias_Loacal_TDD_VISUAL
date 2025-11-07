@@ -9,7 +9,11 @@ describe("Calculadora de cadenas", () => {
     expect(sumarCadena("3")).toEqual(3);
   });
 
-  it("deberia retornar la suma de los numero de una cadena de numeros separados por coma", () => {
+  it("deberia retornar la suma de los numero de una cadena de dos numeros separados por coma", () => {
     expect(sumarCadena("3,4")).toEqual(7);
+  });
+
+  it("deberia retornar la suma de los numero de una cadena de varios numeros separados por coma", () => {
+    expect(sumarCadena("3,4,7,1")).toEqual(15);
   });
 });
