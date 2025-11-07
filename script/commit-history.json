@@ -95,17 +95,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8c4b8a833fcbf8d35304ac46e1a6d79807ce5618",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-11-07T12:40:02.000Z",
       "message": "feat: suma cadena de varios numeros",
-      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/HEAD"
+      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/8c4b8a833fcbf8d35304ac46e1a6d79807ce5618"
     },
     "stats": {
       "total": 55,
       "additions": 50,
       "deletions": 5,
+      "date": "2025-11-07"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-11-07T12:47:32.000Z",
+      "message": "feat: se anade gitattributes para que no se tome en cuenta los logs",
+      "url": "https://github.com/UCB-IngSoftware/CalculadoraCadenas-TDDLAB20251106/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
       "date": "2025-11-07"
     },
     "coverage": 100,

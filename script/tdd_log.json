@@ -182,9 +182,15 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8c4b8a833fcbf8d35304ac46e1a6d79807ce5618",
     "commitName": "feat: suma cadena de varios numeros",
     "commitTimestamp": 1762519202681,
     "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: se anade gitattributes para que no se tome en cuenta los logs",
+    "commitTimestamp": 1762519652641,
+    "testId": 6
   }
 ]
