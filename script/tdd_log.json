@@ -210,9 +210,55 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0d4dc353474d8f69298b5005e97010ea95f6a2f6",
     "commitName": "feat: ignora numeros mayores a 1000 en la suma",
     "commitTimestamp": 1762519916717,
     "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1765252854415,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1765289933394,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1765290844435,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1765293735649,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 21,
+    "failedTests": 0,
+    "numTotalTests": 21,
+    "timestamp": 1765293858340,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Implementa calculadora de cadenas y FizzBuzz con tests completos",
+    "commitTimestamp": 1765294221565,
+    "testId": 8
   }
 ]
